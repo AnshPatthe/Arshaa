@@ -1,0 +1,48 @@
+#nav-items{
+    text-align: right;
+    margin: 10px;
+}
+.Navbaar{
+    background-color: #37517E;
+   
+}
+/* #Row2{
+    height: 100%;
+    background-color: #37517E;
+    box-sizing: border-box;
+    padding-bottom: 200px ;
+}
+#Heading-1{
+    
+    color: #ffffff;
+    margin-top: 180px;
+    font-size: 50px;
+    margin-left: 100px;
+    font-weight: 750;
+
+}
+#Heading-1-2{
+    margin-left: 100px;
+    color: #ffffff;
+    font-family: "Jost",  sans-serif;
+    font-weight: 100;
+}
+#Home-Image{
+    width: 550px;
+    height: 460px;
+    position: absolute;
+    top: 130px;
+    animation: abc 3s infinite; 
+    animation-direction: alternate; 
+}
+@keyframes abc
+{
+    0% { 
+        transform: translateY(10px);
+        
+        }
+
+    100% {
+        transform: translateY(-10px); 
+    }
+} */
